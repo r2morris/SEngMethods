@@ -5,5 +5,4 @@
 ![workflow](https://github.com/r2morris/SEngMethods/actions/workflows/main.yml/badge.svg)
 
 # DevOps
-
-[![GitHub Actions Workflow Status](https://github.com/r2morris/SEngMethods/actions/workflows/main.yml/badge.svg)](https://github.com/r2morris/SEngMethods/actions/workflows/main.yml)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/r2morris/SEngMethods/<action-name>/develop?style=flat-square)
